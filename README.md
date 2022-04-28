@@ -1,3 +1,6 @@
+Projeto realizado durante estudos no curso "React Js do zero ao avançado na pratica" (https://www.udemy.com/course/curso-reactjs/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
